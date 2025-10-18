@@ -32,7 +32,7 @@ Programs compiled for a 64-bit system have the following characteristics:
 
 In [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture), 64-bit integers, [memory addresses](https://en.wikipedia.org/wiki/Memory_address), or other data units[a] are those that are 64 [bits](https://en.wikipedia.org/wiki/Bit) wide. Also, 64-bit [central processing](https://en.wikipedia.org/wiki/Central_processing_unit) units (CPU) and arithmetic logic units (ALU) are those that are based on [processor registers](https://en.wikipedia.org/wiki/Processor_register), [address buses](https://en.wikipedia.org/wiki/Bus_(computing)#Address_bus), or data buses of that size. A computer that uses such a processor is a 64-bit computer.
 
-
+From the software perspective, 64-bit computing means the use of [machine code](https://en.wikipedia.org/wiki/Machine_code) with 64-bit virtual memory addresses. However, not all 64-bit instruction sets support full 64-bit virtual memory addresses; [x86-64](https://en.wikipedia.org/wiki/X86-64) and [AArch64](https://en.wikipedia.org/wiki/AArch64), for example, support only 48 bits of virtual address, with the remaining 16 bits of the virtual address required to be all zeros (000...) or all ones (111...), and several 64-bit instruction sets support fewer than 64 bits of physical memory address.
 
 
 
