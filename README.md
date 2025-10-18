@@ -43,3 +43,5 @@ A 64-bit word can be expressed as a sequence of 16 hexadecimal digits.
 ![HEX64bit](https://github.com/user-attachments/assets/93304a25-a5dc-44ae-8dac-8e395db6c156)
 
 </br>
+
+In [cryptography](https://en.wikipedia.org/wiki/Cryptography_law), [encryption](https://en.wikipedia.org/wiki/Code) (more specifically, encoding) is the process of transforming information in a way that, ideally, only authorized parties can [decode](https://en.wikipedia.org/wiki/Decoding). This process converts the original representation of the information, known as [plaintext](https://en.wikipedia.org/wiki/Plaintext), into an alternative form known as [ciphertext](https://en.wikipedia.org/wiki/Ciphertext). Despite its goal, encryption does not itself prevent interference but denies the intelligible content to a would-be interceptor.
