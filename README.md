@@ -23,3 +23,17 @@ Programs compiled for a 64-bit system have the following characteristics:
 * File size: 64-bit executable files are typically larger than their 32-bit counterparts because they contain longer address values.
 * Compatibility: 64-bit programs can only run on a 64-bit operating system. However, modern 64-bit operating systems are usually backward compatible and can run older 32-bit applications.
 * Memory management: 64-bit programs can handle file sizes that exceed the 4 GB limit of 32-bit architectures.
+
+</br>
+
+![64Bit File Crypter](https://github.com/user-attachments/assets/9d1807e6-5b3a-4112-bb32-66957291432f)
+
+</br>
+
+In [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture), 64-bit integers, [memory addresses](https://en.wikipedia.org/wiki/Memory_address), or other data units[a] are those that are 64 [bits](https://en.wikipedia.org/wiki/Bit) wide. Also, 64-bit [central processing](https://en.wikipedia.org/wiki/Central_processing_unit) units (CPU) and arithmetic logic units (ALU) are those that are based on [processor registers](https://en.wikipedia.org/wiki/Processor_register), [address buses](https://en.wikipedia.org/wiki/Bus_(computing)#Address_bus), or data buses of that size. A computer that uses such a processor is a 64-bit computer.
+
+
+
+
+
+
