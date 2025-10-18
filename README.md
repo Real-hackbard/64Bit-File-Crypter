@@ -35,5 +35,10 @@ In [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture),
 From the software perspective, 64-bit computing means the use of [machine code](https://en.wikipedia.org/wiki/Machine_code) with 64-bit virtual memory addresses. However, not all 64-bit instruction sets support full 64-bit virtual memory addresses; [x86-64](https://en.wikipedia.org/wiki/X86-64) and [AArch64](https://en.wikipedia.org/wiki/AArch64), for example, support only 48 bits of virtual address, with the remaining 16 bits of the virtual address required to be all zeros (000...) or all ones (111...), and several 64-bit instruction sets support fewer than 64 bits of physical memory address.
 
 
+[Hex dump](https://en.wikipedia.org/wiki/Hex_dump) of the section table in a 64-bit [Portable Executable](https://en.wikipedia.org/wiki/Portable_Executable) File. A 64-bit word can be expressed as a sequence of 16 hexadecimal digits.
 
+</br>
 
+![HEX64bit](https://github.com/user-attachments/assets/93304a25-a5dc-44ae-8dac-8e395db6c156)
+
+</br>
